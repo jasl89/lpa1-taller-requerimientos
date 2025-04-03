@@ -1,2 +1,0 @@
-# TODO: desarrollar el sistema
-
