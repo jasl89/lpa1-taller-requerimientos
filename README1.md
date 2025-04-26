@@ -3,7 +3,7 @@
 ![commits](https://badgen.net/github/commits/UR-CC/lp2-taller1?icon=github) 
 ![last_commit](https://img.shields.io/github/last-commit/UR-CC/lp2-taller1)
 
-- ver [badgen](https://badgen.net/) o [shields](https://shields.io/) para otros tipos de _badges_
+- ver [badgen](https://badgen.net/) o [shields](https://shields.io/) para otros  tipos de _badges_
 
 ## Autor arturo chanchi
 
