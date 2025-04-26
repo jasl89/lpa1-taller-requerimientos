@@ -20,7 +20,7 @@ Agregar una clase para gestionar el inventario de la mueblería.
 Agregar una función para serializar y deserializar los objetos de los muebles en formato JSON.
 Agregar una interfaz de línea de comandos para interactuar con el muebleria.
 Autor
-[@tu_cuenta_github]
+[jasl89]
 
 Buenas Prácticas y Workflow Moderno * Código Limpio :
 Fomentar el uso de nombres descriptivos, comentarios claros y una estructura de código coherente.
